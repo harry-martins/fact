@@ -1,5 +1,5 @@
-n=int(input())
-f=1
-for i in range(1,n+1):
-  f=f*i
-print(f)
+num=int(input())
+x=1
+for i in range(1,num+1):
+  x=x*i
+print(x)
